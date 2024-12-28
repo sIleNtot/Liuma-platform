@@ -7,7 +7,7 @@ import com.autotest.LiuMa.request.PasswordRequest;
 import com.autotest.LiuMa.service.UserService;
 import org.springframework.web.bind.annotation.*;
 
-import javax.annotation.Resource;
+import jakarta.annotation.Resource;
 import java.util.List;
 
 

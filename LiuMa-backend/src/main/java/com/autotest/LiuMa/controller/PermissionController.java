@@ -4,7 +4,7 @@ import com.autotest.LiuMa.dto.MenuDTO;
 import com.autotest.LiuMa.service.PermissionService;
 import org.springframework.web.bind.annotation.*;
 
-import javax.annotation.Resource;
+import jakarta.annotation.Resource;
 import java.util.List;
 
 

@@ -6,8 +6,8 @@ import com.autotest.LiuMa.common.exception.TokenEmptyException;
 import com.autotest.LiuMa.common.utils.JwtUtils;
 import com.autotest.LiuMa.database.domain.User;
 import org.springframework.web.servlet.HandlerInterceptor;
-import javax.servlet.http.HttpServletRequest;
-import javax.servlet.http.HttpServletResponse;
+import jakarta.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletResponse;
 import java.util.Date;
 
 public class LoginInterceptor implements HandlerInterceptor {

@@ -6,8 +6,8 @@ import com.autotest.LiuMa.request.QueryRequest;
 import com.autotest.LiuMa.service.DeviceService;
 import org.springframework.web.bind.annotation.*;
 
-import javax.annotation.Resource;
-import javax.servlet.http.HttpServletRequest;
+import jakarta.annotation.Resource;
+import jakarta.servlet.http.HttpServletRequest;
 import java.util.HashMap;
 import java.util.List;
 

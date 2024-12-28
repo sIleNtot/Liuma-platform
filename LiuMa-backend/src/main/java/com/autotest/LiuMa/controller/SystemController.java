@@ -4,7 +4,7 @@ import com.autotest.LiuMa.database.domain.Assertion;
 import com.autotest.LiuMa.service.SystemService;
 import org.springframework.web.bind.annotation.*;
 
-import javax.annotation.Resource;
+import jakarta.annotation.Resource;
 import java.util.List;
 
 

@@ -8,8 +8,8 @@ import com.autotest.LiuMa.request.LoginRequest;
 import com.autotest.LiuMa.service.UserService;
 import org.springframework.web.bind.annotation.*;
 
-import javax.annotation.Resource;
-import javax.servlet.http.HttpServletResponse;
+import jakarta.annotation.Resource;
+import jakarta.servlet.http.HttpServletResponse;
 import java.util.Base64;
 
 

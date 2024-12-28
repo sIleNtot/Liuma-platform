@@ -5,8 +5,8 @@ import com.autotest.LiuMa.dto.DomainDTO;
 import com.autotest.LiuMa.service.DomainService;
 import org.springframework.web.bind.annotation.*;
 
-import javax.annotation.Resource;
-import javax.servlet.http.HttpServletRequest;
+import jakarta.annotation.Resource;
+import jakarta.servlet.http.HttpServletRequest;
 import java.util.List;
 
 

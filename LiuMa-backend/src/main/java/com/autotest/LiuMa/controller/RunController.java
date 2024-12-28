@@ -5,8 +5,8 @@ import com.autotest.LiuMa.request.RunRequest;
 import com.autotest.LiuMa.service.RunService;
 import org.springframework.web.bind.annotation.*;
 
-import javax.annotation.Resource;
-import javax.servlet.http.HttpServletRequest;
+import jakarta.annotation.Resource;
+import jakarta.servlet.http.HttpServletRequest;
 
 
 @RestController

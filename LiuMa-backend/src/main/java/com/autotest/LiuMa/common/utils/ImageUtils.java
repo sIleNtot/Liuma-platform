@@ -1,7 +1,7 @@
 package com.autotest.LiuMa.common.utils;
 
 import javax.imageio.ImageIO;
-import javax.xml.bind.DatatypeConverter;
+import jakarta.xml.bind.DatatypeConverter;
 import java.awt.image.BufferedImage;
 import java.io.*;
 
